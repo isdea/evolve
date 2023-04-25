@@ -1,5 +1,5 @@
 ---
-title：多年以后
+title:多年以后
 categories:
 - Evolve
 - Chapter1
